@@ -1,19 +1,19 @@
 [
     {
-        "title":"Basique",
-        "img":"https://boogysh.github.io/chateau-api/images/cart_basique.jpg"
+        "title": "Basique",
+        "img": "https://boogysh.github.io/chateau-api/images/cart_basique.jpg"
     },
     {
-        "title":"Classique",
-        "img":"https://boogysh.github.io/chateau-api/images/cart_classique.jpg"
+        "title": "Classique",
+        "img": "https://boogysh.github.io/chateau-api/images/cart_classique.jpg"
     },
     {
-        "title":"Decouvrez",
-        "img":"https://boogysh.github.io/chateau-api/images/cart_decouvrez.jpg"
+        "title": "Decouvrez",
+        "img": "https://boogysh.github.io/chateau-api/images/cart_decouvrez.jpg"
     },
     {
-        "title":"Classique",
-        "img":"https://boogysh.github.io/chateau-api/images/cart_classique.jpg"
+        "title": "Classique",
+        "img": "https://boogysh.github.io/chateau-api/images/cart_classique.jpg"
     }
         
 ]
