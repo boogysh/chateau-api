@@ -1,19 +1,23 @@
 [
     {
         "title": "Basique",
-        "img": "https://boogysh.github.io/chateau-api/images/cart_basique.jpg"
+        "img": "https://boogysh.github.io/chateau-api/images/cart_basique.jpg",
+        "price": 14
     },
     {
         "title": "Classique",
-        "img": "https://boogysh.github.io/chateau-api/images/cart_classique.jpg"
+        "img": "https://boogysh.github.io/chateau-api/images/cart_classique.jpg",
+        "price": 24
     },
     {
         "title": "Decouvrez",
-        "img": "https://boogysh.github.io/chateau-api/images/cart_decouvrez.jpg"
+        "img": "https://boogysh.github.io/chateau-api/images/cart_decouvrez.jpg",
+        "price": 49
     },
     {
         "title": "Exception",
-        "img": "https://boogysh.github.io/chateau-api/images/cart_classique.jpg"
+        "img": "https://boogysh.github.io/chateau-api/images/cart_classique.jpg",
+        "price": 70
     }
         
 ]
